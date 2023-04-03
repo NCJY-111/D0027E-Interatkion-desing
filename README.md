@@ -13,3 +13,8 @@ D0027E Uppgift 1
   5.    Designprocess inklusive interaktionsdesign med användargränssnitt
   
   6.    Göra database modellering 
+
+
+
+
+Detta är min push
