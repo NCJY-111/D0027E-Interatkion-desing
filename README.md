@@ -12,4 +12,4 @@ D0027E Uppgift 1
   
   5.    Designprocess inklusive interaktionsdesign med användargränssnitt
   
-  6.
+  6.    Göra database modellering 
