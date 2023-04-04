@@ -27,3 +27,13 @@ h2{
     border: 4px outset black;
     text-align: center;
   }
+
+  .ChooseWhatToDo{
+  background-color: darkblue;
+  border: 3px black;
+  height: 60%;
+  width: 80%;
+  margin: auto; /* this puts it in the middle of the screen */
+ 
+
+  }
