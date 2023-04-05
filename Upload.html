@@ -28,9 +28,23 @@
 
 <form>
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
+  <input type="text" id="fname" name="fname" value=""><br>
   <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe">
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <label for="Date for upload"><YY-DD-MM--hh-mm-ss></YY-DD-MM--hh-mm-ss></label>
+  <input type="Date" id="year" name="month"><br><br>
+  
+
+  <label for="Categrories">Choose a categori:</label>
+    <select id="categori" name="image">
+      <option value="Entertaiment">Entertainment</option>
+      <option value="News">News</option>
+      <option value="Sport">Sport</option>
+      <option value="Games">Game</option>
+      <option value="Nature">Nature</option>
+    </select><br><br>
+    <input type="submit" value="Admin">
+    <input type="submit" formaction="/action_page2.php" value="Submit as Admin">
 </form>
 
 <p>Note that the form itself is not visible.</p>
