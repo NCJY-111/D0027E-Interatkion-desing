@@ -60,13 +60,47 @@ p {
 }
 
 .ChooseWhatToDo{
-display: block;
+float: left;
+margin-top: 10px;
 background-color: darkblue;
 border: 3px black;
 height: 200px;
-width: 98%;
-margin-left: 1%;
-float: left;
+width: 100%;
 
+display: flex;
+justify-content: center;
+align-items: center;
+}
 
+.TextColor{
+  color: black;
+  text-align: center;
+}
+
+.TextColor2{
+  margin-top: 1%;
+  color: black;
+  text-align: center;
+}
+
+.UploadButton{
+  justify-content: center;
+  align-items: center;
+  float: left;
+  text-align: center;
+  display: block;
+  background-color: aliceblue;
+  width: 200px;
+  height: 80px;
+}
+
+.ArchiveButton{
+  margin-left: 50px;
+  float: left;
+  text-align: center;
+  display: block;
+  background-color: aliceblue;
+  width: 200px;
+  height: 80px;
+  
 }
