@@ -3,37 +3,56 @@
 
 
 body {
-    background-color: rgb(46, 170, 211);
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-h2{
-    color:rgb(0, 255, 34);
+  background-color: rgb(46, 170, 211);
 }
 
+h1 {
+  color: white;
+  text-align: center;
+}
+h2{
+  color:rgb(182, 202, 185);
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
+.TopHeader{
+  color: rgb(214, 54, 14);
+  background-color: rgb(27, 54, 105);
+  border: 4px inset black;
+  text-align: center;
+}
+
+.MiddleScreen{
+  width: 99% ;
+  height: 60vh;
+  background-color: rgb(17, 81, 136);
+}
+
+.SideText{
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+  background-color: aliceblue;
+  width: 45vh;
+  height: 58vh;
   
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+
+}
+
+.ChooseWhatToDo{
+background-color: darkblue;
+border: 3px black;
+height: 60%;
+width: 80%;
+margin: auto; /* this puts it in the middle of the screen */
 
 
-  .TopHeader{
-    color: rgb(214, 54, 14);
-    background-color: blueviolet;
-    border: 4px outset black;
-    text-align: center;
-  }
-
-  .ChooseWhatToDo{
-  background-color: darkblue;
-  border: 3px black;
-  height: 60%;
-  width: 80%;
-  margin: auto; /* this puts it in the middle of the screen */
- 
-
-  }
+}
