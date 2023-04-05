@@ -89,7 +89,7 @@ align-items: center;
   float: left;
   text-align: center;
   display: block;
-  background-color: aliceblue;
+  background-color: rgb(89, 163, 228);
   width: 200px;
   height: 80px;
 }
@@ -99,7 +99,7 @@ align-items: center;
   float: left;
   text-align: center;
   display: block;
-  background-color: aliceblue;
+  background-color: rgb(89, 163, 228);
   width: 200px;
   height: 80px;
   
